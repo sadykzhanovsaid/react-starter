@@ -3,8 +3,6 @@
 Minimal and modern React starter powered by Vite.
 Preconfigured for fast development with a clean and scalable structure.
 
----
-
 ## ✨ Features
 
 * ⚡ Vite for lightning-fast builds
@@ -13,8 +11,6 @@ Preconfigured for fast development with a clean and scalable structure.
 * 🔗 Path alias (`@/`)
 * 🖼 SVG support as React components (SVGR)
 * 🧹 Ready for scalable development
-
----
 
 ## 📦 Installation
 
@@ -25,14 +21,10 @@ npm install
 npm run dev
 ```
 
----
-
 ## 🛠 Tech Stack
 
 * React
 * Vite
-
----
 
 ## 📌 Purpose
 
