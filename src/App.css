@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  user-select: none;
+}
+
+body::-webkit-scrollbar {
+  width: 0;
+}
+
+.application {
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-family: "Sans Serif Collection", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 100%;
+  color: #1E1E1E;
+}
